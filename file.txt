@@ -1,0 +1,21 @@
+[33mcommit d4eb78694a68e7301a4e9cd725c34fea0558b86b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: Mon_Site_V3[m[33m)[m
+Author: Chouaib EDDARBALI <ceddarbali@gmail.com>
+Date:   Thu Nov 16 20:53:00 2023 +0100
+
+    Integration_Gist
+
+[1mdiff --git a/hello.html b/hello.html[m
+[1mindex 7352a57..4904124 100644[m
+[1m--- a/hello.html[m
+[1m+++ b/hello.html[m
+[36m@@ -29,5 +29,9 @@[m
+ 			<h4>En Construction ...</h4>[m
+ 		</div>[m
+ 		[m
+[32m+[m		[32m<!--Mon Gist-->[m
+[32m+[m		[32m<div>[m
+[32m+[m			[32m<p><script src="https://gist.github.com/Chouaib95/0f1c79cd01c69944b9fb5bc867cffd71.js"></script></p>[m
+[32m+[m		[32m</div>[m
+ 	[m
+ </body></html>[m
+\ No newline at end of file[m
